@@ -3,4 +3,4 @@ SW Expert Academy
 
 업로드 시, 파일명은 아래와 같이 통일합니다.
 <br>
-- SWEA(문제번호) _ Solution _ (이름)
+- SWEA(문제번호) _ Solution _ (문제 제목) _ (이름)
