@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SWEA1824_Solution_임효진 {
+public class SWEA1824_Solution_혁진이의프로그래밍검증_임효진 {
 	private static char[][] map;
 	private static boolean[][][][] visit;
 	private static int R;
