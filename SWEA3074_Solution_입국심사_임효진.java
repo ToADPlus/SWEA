@@ -19,7 +19,7 @@ public class SWEA3074_Solution_입국심사_임효진 {
 			}
 			long MaxTime = max * M; // 최대 시간
 			long MinTime = 0;
-            long ans = MaxTime;
+                        long ans = MaxTime;
 			while (MaxTime >= MinTime) {
 				long mid = (MaxTime + MinTime) / 2;
 				long sum = 0L;
