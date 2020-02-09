@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Sample_SWTEST_프로세서연결하기_임효진 {
+public class SWEA_SWTest_프로세서연결하기_임효진 {
 	private static class Point {
 		int x;
 		int y;
