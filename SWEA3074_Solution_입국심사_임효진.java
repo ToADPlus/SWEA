@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SWEA3074_Solution_임효진 {
+public class SWEA3074_Solution_입국심사_임효진 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
