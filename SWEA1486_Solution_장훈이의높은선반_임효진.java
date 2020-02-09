@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SWEA1486_Solution_임효진 {
+public class SWEA1486_Solution_장훈이의높은선반_임효진 {
 	private static int[] emp;
 	private static boolean[] use;
 	private static int N;
